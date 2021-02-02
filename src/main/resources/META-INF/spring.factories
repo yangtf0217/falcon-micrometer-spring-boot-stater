@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.kobe.falcon.micrometer.FalconMicrometerConfiguration,\
+com.kobe.falcon.micrometer.FalconMetricsExportAutoConfiguration
